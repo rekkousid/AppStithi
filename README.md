@@ -97,10 +97,10 @@ This project helps Teachers to take attendance and store, fetch data from mysql 
 
 # Contact :
 
- <p>mailto:developerrajneeshsingh@gmail.com</p>
+ <p>mailto:bijusiddharth23@gmail.com</p>
 
 # MIT License
-<pre>Copyright (c) 2017 Rajneesh Singh
+<pre>Copyright (c) 2020 Siddharth B.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
